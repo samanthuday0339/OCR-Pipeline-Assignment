@@ -1,0 +1,515 @@
+{
+  "page_14.jpg": {
+    "ocr_text_file": "./results/page_14_ocr.txt",
+    "clean_text_file": "./results/page_14_clean.txt",
+    "preprocessed_image": "./results/page_14_preprocessed.png",
+    "redacted_image": "./results/page_14_redacted.png",
+    "pii_summary": {
+      "regex": {},
+      "spacy": [
+        {
+          "text": "POOPIE",
+          "label": "PERSON",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "text": "CT ed",
+          "label": "PERSON",
+          "start": 71,
+          "end": 76
+        },
+        {
+          "text": "EC ICRC",
+          "label": "ORG",
+          "start": 100,
+          "end": 107
+        },
+        {
+          "text": "CEI RETTI ELE",
+          "label": "ORG",
+          "start": 115,
+          "end": 128
+        },
+        {
+          "text": "CRETE TLR Lb &L AAA",
+          "label": "ORG",
+          "start": 232,
+          "end": 251
+        },
+        {
+          "text": "VOTE WEEE WE",
+          "label": "PERSON",
+          "start": 341,
+          "end": 353
+        },
+        {
+          "text": "fla",
+          "label": "GPE",
+          "start": 389,
+          "end": 392
+        },
+        {
+          "text": "Ge",
+          "label": "ORG",
+          "start": 415,
+          "end": 417
+        },
+        {
+          "text": "SM Fleas SIR",
+          "label": "ORG",
+          "start": 465,
+          "end": 477
+        },
+        {
+          "text": "Soran",
+          "label": "GPE",
+          "start": 526,
+          "end": 531
+        },
+        {
+          "text": "las Ee",
+          "label": "GPE",
+          "start": 536,
+          "end": 542
+        },
+        {
+          "text": "SSS TTTELIATTETIPRTEHESEPE TEEPE TL UPRITEL LPT",
+          "label": "ORG",
+          "start": 592,
+          "end": 639
+        },
+        {
+          "text": "Tel",
+          "label": "PERSON",
+          "start": 682,
+          "end": 685
+        },
+        {
+          "text": "EL TS",
+          "label": "ORG",
+          "start": 698,
+          "end": 703
+        },
+        {
+          "text": "RIS",
+          "label": "PERSON",
+          "start": 726,
+          "end": 729
+        }
+      ]
+    }
+  },
+  "page_30.jpg": {
+    "ocr_text_file": "./results/page_30_ocr.txt",
+    "clean_text_file": "./results/page_30_clean.txt",
+    "preprocessed_image": "./results/page_30_preprocessed.png",
+    "redacted_image": "./results/page_30_redacted.png",
+    "pii_summary": {
+      "regex": {},
+      "spacy": [
+        {
+          "text": "ag",
+          "label": "ORG",
+          "start": 55,
+          "end": 57
+        },
+        {
+          "text": "SF",
+          "label": "GPE",
+          "start": 61,
+          "end": 63
+        },
+        {
+          "text": "Ff Set fe &",
+          "label": "ORG",
+          "start": 73,
+          "end": 84
+        },
+        {
+          "text": "Bb &",
+          "label": "ORG",
+          "start": 134,
+          "end": 138
+        },
+        {
+          "text": "PLS",
+          "label": "ORG",
+          "start": 183,
+          "end": 186
+        },
+        {
+          "text": "a Rae Coo ge",
+          "label": "PERSON",
+          "start": 269,
+          "end": 281
+        },
+        {
+          "text": "SG",
+          "label": "ORG",
+          "start": 326,
+          "end": 328
+        },
+        {
+          "text": "TY",
+          "label": "ORG",
+          "start": 332,
+          "end": 334
+        },
+        {
+          "text": "MU SND",
+          "label": "ORG",
+          "start": 354,
+          "end": 360
+        },
+        {
+          "text": "Yi Le",
+          "label": "PERSON",
+          "start": 410,
+          "end": 415
+        },
+        {
+          "text": "BSS",
+          "label": "ORG",
+          "start": 450,
+          "end": 453
+        },
+        {
+          "text": "KD",
+          "label": "PERSON",
+          "start": 497,
+          "end": 499
+        },
+        {
+          "text": "Cae eet Se Se",
+          "label": "PERSON",
+          "start": 580,
+          "end": 593
+        },
+        {
+          "text": "{Ro Key 2",
+          "label": "PERSON",
+          "start": 595,
+          "end": 604
+        },
+        {
+          "text": "Mee",
+          "label": "PERSON",
+          "start": 614,
+          "end": 617
+        },
+        {
+          "text": "Hs Sane 2 7",
+          "label": "PERSON",
+          "start": 624,
+          "end": 635
+        },
+        {
+          "text": "Sos",
+          "label": "ORG",
+          "start": 669,
+          "end": 672
+        },
+        {
+          "text": "aes ia B5729 ral ,",
+          "label": "ORG",
+          "start": 690,
+          "end": 708
+        },
+        {
+          "text": "Oy C8y & RD",
+          "label": "ORG",
+          "start": 755,
+          "end": 766
+        },
+        {
+          "text": "Lb",
+          "label": "PERSON",
+          "start": 770,
+          "end": 772
+        },
+        {
+          "text": "x.",
+          "label": "ORG",
+          "start": 807,
+          "end": 809
+        },
+        {
+          "text": "CT",
+          "label": "ORG",
+          "start": 831,
+          "end": 833
+        },
+        {
+          "text": "gSsm",
+          "label": "ORG",
+          "start": 865,
+          "end": 869
+        },
+        {
+          "text": "Hees",
+          "label": "ORG",
+          "start": 901,
+          "end": 905
+        },
+        {
+          "text": "PSR. &.",
+          "label": "ORG",
+          "start": 988,
+          "end": 995
+        }
+      ]
+    }
+  },
+  "page_35.jpg": {
+    "ocr_text_file": "./results/page_35_ocr.txt",
+    "clean_text_file": "./results/page_35_clean.txt",
+    "preprocessed_image": "./results/page_35_preprocessed.png",
+    "redacted_image": "./results/page_35_redacted.png",
+    "pii_summary": {
+      "regex": {},
+      "spacy": [
+        {
+          "text": "Je ae BP wr FAN 2",
+          "label": "ORG",
+          "start": 3,
+          "end": 20
+        },
+        {
+          "text": "SOS",
+          "label": "ORG",
+          "start": 49,
+          "end": 52
+        },
+        {
+          "text": "BES",
+          "label": "ORG",
+          "start": 78,
+          "end": 81
+        },
+        {
+          "text": "oS5",
+          "label": "GPE",
+          "start": 129,
+          "end": 132
+        },
+        {
+          "text": "UN",
+          "label": "ORG",
+          "start": 172,
+          "end": 174
+        },
+        {
+          "text": "OO FV",
+          "label": "ORG",
+          "start": 178,
+          "end": 183
+        },
+        {
+          "text": "Morcppe",
+          "label": "PERSON",
+          "start": 210,
+          "end": 217
+        },
+        {
+          "text": "ed",
+          "label": "PERSON",
+          "start": 223,
+          "end": 225
+        },
+        {
+          "text": "Lom Fa",
+          "label": "PERSON",
+          "start": 279,
+          "end": 285
+        },
+        {
+          "text": "Got qo",
+          "label": "PERSON",
+          "start": 309,
+          "end": 315
+        },
+        {
+          "text": "i Be mm EEEEe",
+          "label": "PERSON",
+          "start": 321,
+          "end": 334
+        },
+        {
+          "text": "Welle",
+          "label": "ORG",
+          "start": 338,
+          "end": 343
+        },
+        {
+          "text": "7 . - 7",
+          "label": "DATE",
+          "start": 431,
+          "end": 438
+        },
+        {
+          "text": "mm",
+          "label": "PERSON",
+          "start": 448,
+          "end": 450
+        },
+        {
+          "text": "Sore",
+          "label": "PERSON",
+          "start": 528,
+          "end": 532
+        },
+        {
+          "text": "SF",
+          "label": "GPE",
+          "start": 556,
+          "end": 558
+        },
+        {
+          "text": "Fe Nd",
+          "label": "PERSON",
+          "start": 569,
+          "end": 574
+        },
+        {
+          "text": "a3 Gre",
+          "label": "ORG",
+          "start": 591,
+          "end": 597
+        },
+        {
+          "text": "Hb",
+          "label": "ORG",
+          "start": 608,
+          "end": 610
+        },
+        {
+          "text": "DASsl Po Pie",
+          "label": "ORG",
+          "start": 763,
+          "end": 775
+        },
+        {
+          "text": "SN ed Co > + rr Qo",
+          "label": "ORG",
+          "start": 833,
+          "end": 851
+        },
+        {
+          "text": "Tae",
+          "label": "PERSON",
+          "start": 889,
+          "end": 892
+        },
+        {
+          "text": "emer",
+          "label": "PERSON",
+          "start": 909,
+          "end": 913
+        },
+        {
+          "text": "SA",
+          "label": "ORG",
+          "start": 937,
+          "end": 939
+        },
+        {
+          "text": "KT",
+          "label": "PERSON",
+          "start": 994,
+          "end": 996
+        },
+        {
+          "text": "Foe",
+          "label": "PERSON",
+          "start": 1023,
+          "end": 1026
+        },
+        {
+          "text": "Sai WESAR - ow",
+          "label": "PERSON",
+          "start": 1191,
+          "end": 1205
+        },
+        {
+          "text": "GSS",
+          "label": "ORG",
+          "start": 1246,
+          "end": 1249
+        },
+        {
+          "text": "Le",
+          "label": "ORG",
+          "start": 1267,
+          "end": 1269
+        },
+        {
+          "text": "Beale",
+          "label": "GPE",
+          "start": 1390,
+          "end": 1395
+        },
+        {
+          "text": "TY",
+          "label": "ORG",
+          "start": 1409,
+          "end": 1411
+        },
+        {
+          "text": "Ko",
+          "label": "PERSON",
+          "start": 1439,
+          "end": 1441
+        },
+        {
+          "text": "FF BP Seepo Pee es & PR",
+          "label": "ORG",
+          "start": 1610,
+          "end": 1633
+        },
+        {
+          "text": "29 5 8",
+          "label": "DATE",
+          "start": 1676,
+          "end": 1682
+        },
+        {
+          "text": "geese",
+          "label": "NORP",
+          "start": 1704,
+          "end": 1709
+        },
+        {
+          "text": "2 - 9888",
+          "label": "DATE",
+          "start": 1710,
+          "end": 1718
+        },
+        {
+          "text": "TE ie Pres OY eSec",
+          "label": "ORG",
+          "start": 1719,
+          "end": 1737
+        },
+        {
+          "text": "SBCS ase",
+          "label": "ORG",
+          "start": 1742,
+          "end": 1750
+        },
+        {
+          "text": "28 8",
+          "label": "DATE",
+          "start": 1752,
+          "end": 1756
+        },
+        {
+          "text": "BAS ~Y",
+          "label": "PERSON",
+          "start": 1842,
+          "end": 1848
+        }
+      ]
+    }
+  }
+}
